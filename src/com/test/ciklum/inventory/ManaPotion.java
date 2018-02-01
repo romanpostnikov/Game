@@ -32,7 +32,7 @@ public class ManaPotion implements Item {
 
     @Override
     public String toString() {
-        return "ManaPotion{" +
+        return "\nManaPotion{" +
                 "name='" + name + '\'' +
                 ", mana=" + mana +
                 '}';

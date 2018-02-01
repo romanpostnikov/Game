@@ -32,7 +32,7 @@ public class Armour implements Item {
 
     @Override
     public String toString() {
-        return "Armour{" +
+        return "\nArmour{" +
                 "name='" + name + '\'' +
                 ", protection=" + protection +
                 '}';

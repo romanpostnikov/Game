@@ -32,7 +32,7 @@ public class HealthPotion implements Item {
 
     @Override
     public String toString() {
-        return "HealthPotion{" +
+        return "\nHealthPotion{" +
                 "name='" + name + '\'' +
                 ", health=" + health +
                 '}';

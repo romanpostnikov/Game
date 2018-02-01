@@ -49,7 +49,7 @@ public class Weapon implements Item {
 
     @Override
     public String toString() {
-        return "Weapon{" +
+        return "\nWeapon{" +
                 "name='" + name + '\'' +
                 ", damage=" + damage +
                 ", speed=" + speed +
